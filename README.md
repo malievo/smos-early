@@ -1,5 +1,11 @@
 # SMOS — Split Management Operating Shell
 
+<!-- English Description for Reviewers -->
+**Project Overview:** SMOS is a smart voice assistant built with Python. It is designed to handle custom voice commands and offline tasks. The repository and interface are currently in Russian, as the assistant is specifically tailored for Russian-speaking users. I am currently planning to integrate Picovoice Porcupine to add an efficient, custom wake word mechanism.
+---
+
+
+
 Голосовая модульная среда для управления компьютером через речь. Не «ещё один
 ассистент», а попытка собрать голосовое взаимодействие как **маленькое ядро +
 много независимых заменяемых модулей** — так, чтобы это работало и на ПК, и на
